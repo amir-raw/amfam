@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <div id="header" align="center">
+ :fire: My Stats :
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amfam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -44,5 +45,4 @@ You can click the Preview link to take a look at your changes.
   </div>
 
 
-### :fire: My Stats :
 
