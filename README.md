@@ -10,13 +10,15 @@
 ---
 
 
-<h2 align=left"> About Me </h2> 
+<h2 align="left">🚀 About Me</h2>
 
-- 👋 Hi, I’m @amfam from 21st century!
-- 👀 I spend my major time sitting in front of my screen, pulling my hair for the nitty-gritty code I responsibly messsed up 👀. 
-  oh, Hey I’m good at Deep learning  
-- 🌱 I’m currently learning to represent knowledge data from tinniest of symbol.
-- 💞️ I’m looking to collaborate on data science and engineering projects.
+<p style="font-size: 18px; margin: 20px;">👋 Hi, I'm @amfam, a coding enthusiast from the 21st century!</p>
+
+<p style="font-size: 18px; margin: 20px;">👀 I thrive on the thrill of coding, spending hours in front of my screen, and occasionally challenging myself with nitty-gritty code that I fearlessly dive into.</p>
+
+<p style="font-size: 18px; margin: 20px;">🌱 I'm currently on an exciting journey to unlock the secrets of representing knowledge from the tiniest symbols, and I'm loving every moment of it!</p>
+
+<p style="font-size: 18px; margin: 20px;">💞️ I'm always on the lookout for opportunities to collaborate on cutting-edge data science and engineering projects. Let's build something incredible together!</p>
 
 <!---Over the course of my development career, I have come to appreciate clear, beautiful code. Trust me, I end up wasting way time than you  nourishing your face lol.
 umm still figuring out !--->  
