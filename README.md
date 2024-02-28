@@ -38,12 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <div id="header" align="center">
- :fire: My Stats :
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amfam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amfam&theme=ads-juicy-fresh&border_radius=16.2&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727)](https://git.io/streak-stats)
-
+ [![faiyaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amir-raw)](https://github.com/amir-raw/github-readme-activity-graph)
   </div>
 
 
